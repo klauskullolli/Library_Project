@@ -1,0 +1,9 @@
+1 The Three Musketeers; 1 Alexander Dumas; 8 adventure
+2 The illusion of Destiny; 2 Amartya Sen; 5 social
+3 The Diary of Anne Frank; 2 Anne Frank; 5 non-fiction
+4 Harry Potter saga; 4 J.K. Rowling; 6 fantasy
+5 The Adventures of Sherlock Holmes; 3 Arthur Conan Doyle; 3 myster
+6 Carrie; 4 Stephen King; 3 horror
+7 The Savior; 2 J.R. Ward; 2 romance
+8 Don Quixote; 3 Miguel de Cervantes; 9 comedy
+9 Bosi nga Tirona; 2 Klaus Kullolli; 2 comedy
